@@ -14,3 +14,4 @@ This project simulates a student dashboard and course listing UI.
 - Static content to mimic LMS behavior
 
 > No backend or real authentication included. This is a front-end only mock project.
+# hr-management-system-demo
